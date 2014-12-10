@@ -23,12 +23,16 @@ When the code is executed though the object line 7 is empty.
 
 Code is included
 
+```
 SearchActionCreators.js:7 Object {getAllItems: function, search: function}
+```
 
 Code is commented
 
+```
  Object {}
 SearchActionCreators.js:8 Uncaught TypeError: undefined is not a function
+```
 
 ## File Structure
 
